@@ -34,5 +34,7 @@ E a lista de nomes cadastrados no banco.
 
 ````
 
-Execute o comando: docker
-compose up Após a aplicação rodar acesse no seu navegador: http://localhost:8080
+Execute o comando: docker compose up 
+
+Após a aplicação rodar acesse no seu navegador:
+http://localhost:8080
